@@ -1,0 +1,8 @@
+pandas
+plotly.express
+nbformat
+seaborn
+scikit-learn
+numpy
+streamlit
+ipykernel
